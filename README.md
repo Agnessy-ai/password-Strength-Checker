@@ -36,6 +36,5 @@ Entropy score
 
 Feedback and suggestions are shown instantly
 
-## License
-This project is licensed under [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
+
 
