@@ -13,10 +13,28 @@ This Password Checker project is designed to assess the strength of passwords an
 2. Receive a report on the password's strength and potential vulnerabilities.
 
 ## Implementation
-This project is implemented in [language] and utilizes [libraries/tools].
+This project is implemented in Python
+
+re (Regex)
+
+string
+
+tkinter 
 
 ## How to Run
-[Provide instructions on how to run or integrate the Password Checker into other projects.]
+Enter a password into the input field
+
+The tool checks for:
+
+Minimum length
+
+Variety of characters
+
+Common password usage
+
+Entropy score
+
+Feedback and suggestions are shown instantly
 
 ## License
 This project is licensed under [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
